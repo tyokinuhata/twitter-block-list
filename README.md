@@ -1,6 +1,6 @@
 ## これはなに
 
-かずきちのTwitter(@h_tyokinuhata)のブロックリストです.
+かずきちのTwitter([@h_tyokinuhata](https://twitter.com/h_tyokinuhata))のブロックリストです.
 
 １ファイルにつき5,000ユーザー, 合計40,000ユーザーをブロックすることが可能です.
 
